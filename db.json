@@ -1,0 +1,64 @@
+{
+  "personagens":[
+    {
+      "id":1,
+      "nome": "Charllie Sonner",
+      "idade":"7",
+      "descricao":"Irmão mais velho"
+    },
+    {
+      "id":2,
+      "nome": "Lola Sonner",
+      "idade":"5",
+      "descricao":"Irmã mais nova"
+    },
+    {
+      "id":3,
+      "nome": "Soren Lorensen",
+      "idade":"0",
+      "descricao":"Amigo imaginario de Lola"
+    }
+  
+    ],
+  "livros":[
+    {
+      "id":1,
+      "nome": "I Will Never Not Ever Eat A Tomato",
+      "lancamento":"2000",
+      "autora":"Lauren Child"
+    },
+    {
+      "id":2,
+      "nome": "I Am Not Sleepy and I Will Not Go to Bed",
+      "lancamento":"2001",
+      "autora":"Lauren Child"
+    },
+    {
+      "id":3,
+      "nome": "I Am Too Absolutely Small for School",
+      "lancamento":"2003",
+      "autora":"Lauren Child"
+    }
+  ],
+  "dublagem":[
+    {
+      "id":1,
+      "personagem": "Charllie",
+      "dubladorEUA":"Jethro Lundie-Brown",
+      "dubladorBR": "Daniel Figueira"
+    },
+    {
+      "id":2,
+      "personagem": "Lola",
+      "dubladorEUA":"Maisie Cowell",
+      "dubladorBR": "Bianca Alencar"
+    },
+    {
+      "id":3,
+      "personagem": "Soren",
+      "dubladorEUA":"Stanley Street",
+      "dubladorBR": "Gabriel Rossati"
+    }
+  ]
+}
+  
